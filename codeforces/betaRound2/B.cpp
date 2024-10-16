@@ -1,11 +1,14 @@
 
-#include<iostream>;
+#include<iostream>
 using namespace std;
 
-void main(){
+int main(){
     for(int i=0;i<10;i++){
         cout<<i;
     }
+
+
+    return 0;
 }
 
 
